@@ -40,8 +40,8 @@ async def start(client, message):
     if message.chat.type != "private":
         buttons = [
                   [
-                   InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/BRANDRD_BOT"),
-                   InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/BRANDED_WORLD"),
+                   InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Girls_and_boys_dpz_3"),
+                   InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/+R7l_fMk1Au1hYzBl"),
                   ]       
                   ]
         await message.reply("ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ɪɴ ᴘᴇʀsᴏɴᴀʟ",
@@ -49,7 +49,7 @@ async def start(client, message):
         
     else:
         buttons = [[
-            InlineKeyboardButton("❮ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❯", url=f"https://t.me/VickMachine82_Bot?startgroup=true")
+            InlineKeyboardButton("❮ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❯", url=f"https://t.me/SHIZUKA_CHAT_BOT?startgroup=true")
         ]
         ]
         video = "https://graph.org/file/e999c40cb700e7c684b75.mp4"
@@ -57,9 +57,9 @@ async def start(client, message):
 ɪ ᴀᴍ ᴄʜᴀᴛʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐎𝐖𝐍𝐄𝐑   [𝐀𝐃𝐈𝐓𝐘𝐀](https://t.me/BRANDEDADITY82)
-┣★ 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 [𝐂𝐇𝐀𝐍𝐍𝐄𝐋](https://t.me/BRANDRD_BOT)
-┣★ 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 [𝐆𝐑𝐎𝐔𝐏](https://t.me/BRANDED_WORLD)
+┣★ 𝐎𝐖𝐍𝐄𝐑   [𝐍𝐎𝐁𝐈𝐓𝐀](https://t.me/N_O_B_I_T_A_7_6)
+┣★ 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 [𝐂𝐇𝐀𝐍𝐍𝐄𝐋](https://t.me/Girls_and_boys_dpz_3)
+┣★ 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 [𝐆𝐑𝐎𝐔𝐏](https://t.me/+R7l_fMk1Au1hYzBl)
 ┣★ 𝐒𝐎𝐔𝐑𝐂𝐄  [ 𝐑𝐄𝐏𝐎](https://github.com/ADITYAXANLO/VICKCHATBOT)
 ┗━━━━━━━━━━━━━━━━━┛
 """, reply_markup=InlineKeyboardMarkup(buttons))
